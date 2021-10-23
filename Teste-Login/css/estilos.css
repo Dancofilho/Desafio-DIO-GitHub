@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(100, 97, 96);
+}
+
+.container{
+  width: 450px;
+  margin: 130px;
+  padding: 25px;
+  background: linear-gradient(#b96606, #644827);
+
+  border-radius: 25px;
+}
+
+input{
+  width: 280px;
+  display: block;
+  border-radius: 10px;
+}
+
+button{
+  position: relative;
+  left: 50px;
+  top: 15px;
+  margin: 15px;
+}
